@@ -1,0 +1,10 @@
+﻿cff-version: 1.2.0
+message: "If you use this software or manuscript, please cite it as below."
+authors:
+  - family-names: "Ownby"
+    given-names: "Gracen"
+    affiliation: "University of Oklahoma"
+title: "Electrically programmable intersubband second-harmonic gratings: synthesis under saturation, fringing fields and tuning"
+version: "1.0.0"
+date-released: "2026-10-17"
+license: MIT

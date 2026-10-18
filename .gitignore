@@ -1,0 +1,22 @@
+﻿__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Exclude pre-fix/historical debug folders
+studies/**/pre_*/
+studies/**/superseded/
+studies/**/v1/
+*.flag
+*badnorm*
+
+# LaTeX build intermediates (keep .tex, .bib, .bbl, and .pdf)
+*.aux
+*.fdb_latexmk
+*.fls
+*.out
+*.synctex.gz
+*.toc

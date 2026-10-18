@@ -1,0 +1,13 @@
+pitch 2 um gap 1 levels all (54) breakdown limit True: 0.3929% from greedy (benchmark 0.3601%, x1.09) | 202 s
+pitch 4 um gap 2 levels all (54) breakdown limit True: 0.4330% from greedy (benchmark 0.3601%, x1.20) gap 1 um: 0.4333% | 234 s
+pitch 16 um gap 2 levels all (54) breakdown limit True: 0.3665% from greedy (benchmark 0.3601%, x1.02) | 91 s
+pitch 8 um gap 2 levels all (54) breakdown limit True: 0.3906% from greedy (benchmark 0.3601%, x1.08) | 143 s
+pitch 4 um gap 2 levels pair (2) breakdown limit True: 0.3591% from benchmark (benchmark 0.3601%, x1.00) | 5 s
+pitch 4 um gap 2 levels 3 (3) breakdown limit True: 0.3339% from greedy (benchmark 0.3601%, x0.93) | 12 s
+pitch 4 um gap 2 levels 5 (5) breakdown limit True: 0.3707% from greedy (benchmark 0.3601%, x1.03) | 14 s
+pitch 4 um gap 2 levels 9 (9) breakdown limit True: 0.4207% from greedy (benchmark 0.3601%, x1.17) | 43 s
+pitch 4 um gap 2 levels all (54) breakdown limit False: 0.4619% from greedy (benchmark 0.3601%, x1.28) | 660 s
+exit 0
+--- resumed 21:05
+pitch 4 um gap 1 levels all (54) breakdown limit True: 0.3936% from greedy (benchmark 0.3601%, x1.09) | 103 s
+exit 0

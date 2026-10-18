@@ -1,0 +1,8 @@
+ad 1.26 programmed {'L': 68.25, 'eta': np.float64(0.0043), 'inphase_mean_nm': 28.9211, 'P1_left': 0.2404, 'near_res': 0.0623, 'field_range': [-129.1861075480944, 87.63600756828242]}
+ad 1.26 benchmark {'L': 39.25, 'eta': np.float64(0.0036), 'inphase_mean_nm': 31.495, 'P1_left': 0.4179, 'near_res': 0.051, 'field_range': [-49.97142838671577, 69.38615496444088]}
+ad 10.0 programmed {'L': 134.0, 'eta': np.float64(0.0276), 'inphase_mean_nm': 12.0853, 'P1_left': 0.2536, 'near_res': 0.0821, 'field_range': [-126.46735366729033, 128.18927308591336]}
+ad 10.0 benchmark {'L': 133.25, 'eta': np.float64(0.0229), 'inphase_mean_nm': 11.376, 'P1_left': 0.2997, 'near_res': 0.0488, 'field_range': [-79.9027557655575, 99.55962092299895]}
+tw 1.26 programmed {'L': 74.25, 'eta': np.float64(0.0028), 'inphase_mean_nm': 22.4755, 'P1_left': 0.3703, 'near_res': None, 'field_range': [-89.29648546270317, 83.1913946256154]}
+tw 1.26 benchmark {'L': 61.25, 'eta': np.float64(0.0019), 'inphase_mean_nm': 18.5203, 'P1_left': 0.4978, 'near_res': None, 'field_range': [-74.71864261196816, 74.80119130850623]}
+tw 10.0 programmed {'L': 127.75, 'eta': np.float64(0.0107), 'inphase_mean_nm': 7.6275, 'P1_left': 0.522, 'near_res': None, 'field_range': [-94.59018533240526, 94.73917020836564]}
+tw 10.0 benchmark {'L': 128.25, 'eta': np.float64(0.0099), 'inphase_mean_nm': 7.472, 'P1_left': 0.5287, 'near_res': None, 'field_range': [-89.70757132583968, 89.79391936401966]}

@@ -1,0 +1,166 @@
+\begin{thebibliography}{21}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Rosencher et~al.(1996)Rosencher, Fiore, Vinter, Berger, Bois, and
+  Nagle]{Rosencher1996}
+E.~Rosencher, A.~Fiore, B.~Vinter, V.~Berger, Ph. Bois, and J.~Nagle.
+\newblock Quantum engineering of optical nonlinearities.
+\newblock \emph{Science}, 271:\penalty0 168, 1996.
+\newblock \doi{10.1126/science.271.5246.168}.
+
+\bibitem[Vurgaftman et~al.(2021)Vurgaftman, Lumb, and Meyer]{Vurgaftman2021}
+I.~Vurgaftman, M.~P. Lumb, and J.~R. Meyer.
+\newblock \emph{Bands and Photons in {III--V} Semiconductor Quantum
+  Structures}.
+\newblock Oxford University Press, Oxford, 2021.
+\newblock \doi{10.1093/oso/9780198767275.001.0001}.
+
+\bibitem[Janz et~al.(1994)Janz, Chatenoud, and Normandin]{Janz1994}
+S.~Janz, F.~Chatenoud, and R.~Normandin.
+\newblock Quasi-phase-matched second-harmonic generation from asymmetric
+  coupled quantum wells.
+\newblock \emph{Opt. Lett.}, 19:\penalty0 622, 1994.
+\newblock \doi{10.1364/OL.19.000622}.
+
+\bibitem[Fiore et~al.(1997)Fiore, Beaulieu, Janz, McCaffrey, Wasilewski, and
+  Xu]{Fiore1997}
+A.~Fiore, Y.~Beaulieu, S.~Janz, J.~P. McCaffrey, Z.~R. Wasilewski, and D.-X.
+  Xu.
+\newblock Quasiphase matched surface emitting second harmonic generation in
+  periodically reversed asymmetric {GaAs/AlGaAs} quantum well waveguide.
+\newblock \emph{Appl. Phys. Lett.}, 70:\penalty0 2655, 1997.
+\newblock \doi{10.1063/1.118987}.
+
+\bibitem[Bouchard et~al.(2000)Bouchard, Janz, Xu, Wasilewski, Akano, Mitchell,
+  Piva, and T{\^e}tu]{Bouchard2000}
+J.-P. Bouchard, S.~Janz, D.-X. Xu, Z.~R. Wasilewski, U.~G. Akano, I.~V.
+  Mitchell, P.~G. Piva, and M.~T{\^e}tu.
+\newblock Quasi-phase-matching using quantum-well-intermixing-induced
+  modulation of the nonlinear susceptibility of asymmetric quantum wells.
+\newblock In \emph{Applications of Photonic Technology 4}, volume 4087 of
+  \emph{Proc. SPIE}, page 597, 2000.
+\newblock \doi{10.1117/12.406458}.
+
+\bibitem[Zeaiter et~al.(2003)Zeaiter, Hutchings, Gwilliam, Moutzouris,
+  {Venugopal Rao}, and Ebrahimzadeh]{Zeaiter2003}
+K.~Zeaiter, D.~C. Hutchings, R.~M. Gwilliam, K.~Moutzouris, S.~{Venugopal Rao},
+  and M.~Ebrahimzadeh.
+\newblock Quasi-phase-matched second-harmonic generation in a {GaAs/AlAs}
+  superlattice waveguide by ion-implantation-induced intermixing.
+\newblock \emph{Opt. Lett.}, 28:\penalty0 911, 2003.
+\newblock \doi{10.1364/OL.28.000911}.
+
+\bibitem[Belkin et~al.(2006)Belkin, Troccoli, Diehl, Capasso, Belyanin, Sivco,
+  and Cho]{Belkin2006}
+M.~A. Belkin, M.~Troccoli, L.~Diehl, F.~Capasso, A.~A. Belyanin, D.~L. Sivco,
+  and A.~Y. Cho.
+\newblock Quasiphase matching of second-harmonic generation in quantum cascade
+  lasers by {Stark} shift of electronic resonances.
+\newblock \emph{Appl. Phys. Lett.}, 88:\penalty0 201108, 2006.
+\newblock \doi{10.1063/1.2203938}.
+
+\bibitem[Ownby(2026{\natexlab{a}})]{OwnbyN1}
+G.~Ownby.
+\newblock Electrically written quasi-phase matching of intersubband
+  second-harmonic generation: bias-reversed asymmetric and mirror-symmetric
+  quantum wells.
+\newblock Manuscript in preparation, 2026{\natexlab{a}}.
+
+\bibitem[Fejer and Byer(1989)]{Patent4880297}
+M.~M. Fejer and R.~L. Byer.
+\newblock Quantum well optical electric field biased nonlinear method and
+  apparatus.
+\newblock U.S. Patent 4,880,297 (Stanford University), November 1989.
+
+\bibitem[Delacourt et~al.(1994)Delacourt, Pocholle, and
+  Papuchon]{Patent5289309}
+D.~Delacourt, J.-P. Pocholle, and M.~Papuchon.
+\newblock Optical frequency doubler using quantum well semiconductor
+  structures.
+\newblock U.S. Patent 5,289,309 (Thomson-CSF), February 1994.
+
+\bibitem[Yanagimoto et~al.(2026)Yanagimoto, Ash, Sohoni, Stein, Zhao, Presutti,
+  Jankowski, Wright, Onodera, et~al.]{Yanagimoto2026}
+R.~Yanagimoto, B.~A. Ash, M.~M. Sohoni, M.~M. Stein, Y.~Zhao, F.~Presutti,
+  M.~Jankowski, L.~G. Wright, T.~Onodera, et~al.
+\newblock Programmable on-chip nonlinear photonics.
+\newblock \emph{Nature}, 649:\penalty0 330, 2026.
+\newblock \doi{10.1038/s41586-025-09620-9}.
+
+\bibitem[Van~Camp(2019)]{PatentVanCamp}
+M.~A. Van~Camp.
+\newblock Reconfigurable quasi-phase matching for field-programmable nonlinear
+  photonics, 2019.
+\newblock U.S. Patent 10,274,808 B1.
+
+\bibitem[Timurdogan et~al.(2017)Timurdogan, Poulton, Byrd, and
+  Watts]{Timurdogan2017}
+E.~Timurdogan, C.~V. Poulton, M.~J. Byrd, and M.~R. Watts.
+\newblock Electric field-induced second-order nonlinear optical effects in
+  silicon waveguides.
+\newblock \emph{Nat. Photonics}, 11:\penalty0 200, 2017.
+\newblock \doi{10.1038/nphoton.2017.14}.
+
+\bibitem[Yu et~al.(2025)Yu, Kim, Chung, Son, Boehm, Belkin, and Lee]{Yu2025}
+J.~Yu, J.~Kim, H.~Chung, J.~Son, G.~Boehm, M.~A. Belkin, and J.~Lee.
+\newblock Full complex amplitude control of second-harmonic generation via
+  electrically tunable intersubband polaritonic metasurfaces.
+\newblock \emph{Sci. Adv.}, 11:\penalty0 eadw8852, 2025.
+\newblock \doi{10.1126/sciadv.adw8852}.
+
+\bibitem[Vodopyanov et~al.(1998)Vodopyanov, O'Neill, Serapiglia, Phillips,
+  Hopkinson, Vurgaftman, and Meyer]{Vodopyanov1998}
+K.~L. Vodopyanov, K.~O'Neill, G.~B. Serapiglia, C.~C. Phillips, M.~Hopkinson,
+  I.~Vurgaftman, and J.~R. Meyer.
+\newblock Phase-matched second harmonic generation in asymmetric double quantum
+  wells.
+\newblock \emph{Appl. Phys. Lett.}, 72:\penalty0 2654, 1998.
+\newblock \doi{10.1063/1.121088}.
+
+\bibitem[Meyer et~al.(1995)Meyer, Hoffman, Bartoli, and
+  Ram-Mohan]{Meyer1995APL}
+J.~R. Meyer, C.~A. Hoffman, F.~J. Bartoli, and L.~R. Ram-Mohan.
+\newblock Intersubband second-harmonic generation with voltage-controlled phase
+  matching.
+\newblock \emph{Appl. Phys. Lett.}, 67:\penalty0 608, 1995.
+\newblock \doi{10.1063/1.115404}.
+
+\bibitem[Vurgaftman et~al.(1996)Vurgaftman, Meyer, and
+  Ram-Mohan]{Vurgaftman1996SSC}
+I.~Vurgaftman, J.~R. Meyer, and L.~R. Ram-Mohan.
+\newblock Detuned intersubband resonances for broadband field-modulated
+  second-harmonic generation in a waveguide.
+\newblock \emph{Solid State Commun.}, 100\penalty0 (9):\penalty0 663--667,
+  1996.
+\newblock \doi{10.1016/0038-1098(96)00493-0}.
+
+\bibitem[Fejer et~al.(1992)Fejer, Magel, Jundt, and Byer]{Fejer1992}
+M.~M. Fejer, G.~A. Magel, D.~H. Jundt, and R.~L. Byer.
+\newblock Quasi-phase-matched second harmonic generation: tuning and
+  tolerances.
+\newblock \emph{IEEE J. Quantum Electron.}, 28:\penalty0 2631, 1992.
+
+\bibitem[Arbore et~al.(1997)Arbore, Marco, and Fejer]{Arbore1997}
+M.~A. Arbore, O.~Marco, and M.~M. Fejer.
+\newblock Pulse compression during second-harmonic generation in aperiodic
+  quasi-phase-matching gratings.
+\newblock \emph{Opt. Lett.}, 22:\penalty0 865, 1997.
+\newblock \doi{10.1364/OL.22.000865}.
+
+\bibitem[Ownby(2026{\natexlab{b}})]{OwnbyMETH01}
+G.~Ownby.
+\newblock Dipoles of nonparabolic quantum-well states: why orthonormalizing the
+  bound states is not enough.
+\newblock Manuscript in preparation, 2026{\natexlab{b}}.
+
+\bibitem[Ownby(2026{\natexlab{c}})]{qwkit}
+G.~Ownby.
+\newblock qwkit: self-consistent intersubband optics of quantum wells,
+  2026{\natexlab{c}}.
+\newblock Version 0.7.0, University of Oklahoma.
+
+\end{thebibliography}

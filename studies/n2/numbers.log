@@ -1,0 +1,36 @@
+I4_ad_0.01: bench (-30,-130) x[0.6, 0.6] (ideal-best pair (+90,-20) realistic 0.0044%) ideal 0.0055% real 0.0049% | prog ideal 0.0058% real 0.0060% (start refined) | uniform 0.0046% | gain real 1.22 (vs best unprogrammed 1.22) ideal 1.05 | fringe loss bench 10% prog -4%
+I4_ad_1.26: bench (+70,-50) x[0.9, 0.9] (ideal-best pair (-110,+60) realistic 0.2839%) ideal 0.4198% real 0.3601% | prog ideal 0.5610% real 0.4313% (start refined) | uniform 0.1836% | gain real 1.20 (vs best unprogrammed 1.20) ideal 1.34 | fringe loss bench 14% prog 23%
+I4_ad_10: bench (+100,-80) x[1.0, 0.9] (ideal-best pair (+90,-90) realistic 2.1516%) ideal 2.3812% real 2.2886% | prog ideal 3.3537% real 2.7648% (start benchmark) | uniform 0.2953% | gain real 1.21 (vs best unprogrammed 1.21) ideal 1.41 | fringe loss bench 4% prog 18%
+I4_tw_0.01: bench (+60,-60) x[0.8, 1.1] (ideal-best pair (-60,+60) realistic 0.0032%) ideal 0.0032% real 0.0034% | prog ideal 0.0059% real 0.0045% (start benchmark) | uniform 0.0026% | gain real 1.31 (vs best unprogrammed 1.31) ideal 1.86 | fringe loss bench -8% prog 24%
+I4_tw_1.26: bench (+75,-75) x[0.9, 0.9] (ideal-best pair (+80,-80) realistic 0.1816%) ideal 0.2268% real 0.1949% | prog ideal 0.4092% real 0.2796% (start refined) | uniform 0.0916% | gain real 1.43 (vs best unprogrammed 1.43) ideal 1.80 | fringe loss bench 14% prog 32%
+I4_tw_10: bench (-90,+90) x[0.9, 1.0] (ideal-best pair (+90,-90) realistic 0.9221%) ideal 1.1238% real 0.9945% | prog ideal 1.4765% real 1.0738% (start benchmark) | uniform 0.1523% | gain real 1.08 (vs best unprogrammed 1.08) ideal 1.31 | fringe loss bench 12% prog 27%
+I2_ad_1.26: bench (+80,-70) x[0.9, 1.1] (ideal-best pair (+80,-80) realistic 0.2455%) ideal 0.3327% real 0.2532% | prog ideal 0.4692% real 0.3513% (start refined) | uniform 0.0107% | gain real 1.39 (vs best unprogrammed 1.39) ideal 1.41 | fringe loss bench 24% prog 25%
+I2_ad_10: bench (+100,-80) x[1.0, 1.0] (ideal-best pair (+100,-80) realistic 1.8345%) ideal 1.9431% real 1.8345% | prog ideal 2.7193% real 2.2143% (start refined) | uniform 0.0146% | gain real 1.21 (vs best unprogrammed 1.21) ideal 1.40 | fringe loss bench 6% prog 19%
+I2_tw_1.26: bench (+35,-35) x[1.0, 1.0] (ideal-best pair (+70,-70) realistic 0.1530%) ideal 0.1897% real 0.1678% | prog ideal 0.3874% real 0.2596% (start refined) | uniform 0.0065% | gain real 1.55 (vs best unprogrammed 1.55) ideal 2.04 | fringe loss bench 12% prog 33%
+I2_tw_10: bench (-85,+85) x[1.0, 1.0] (ideal-best pair (-85,+85) realistic 0.7171%) ideal 0.8467% real 0.7396% | prog ideal 1.2552% real 0.8497% (start refined) | uniform 0.0076% | gain real 1.15 (vs best unprogrammed 1.15) ideal 1.48 | fringe loss bench 13% prog 32%
+tuning ad -40 meV: fixed(design) 0.0184% retuned 0.0246% [120.0, -40.0] (best of grid and design pair 0.0246%) uniform 0.0171% programmed(fixed) 0.0199% reprogrammed 0.0374% | reprogrammed/retuned 1.52 | reprogrammed/design pattern 1.88
+tuning ad -30 meV: fixed(design) 0.0264% retuned 0.0393% [140.0, 0.0] (best of grid and design pair 0.0393%) uniform 0.0163% programmed(fixed) 0.0133% reprogrammed 0.0628% | reprogrammed/retuned 1.60 | reprogrammed/design pattern 4.72
+tuning ad -20 meV: fixed(design) 0.0558% retuned 0.0855% [120.0, -20.0] (best of grid and design pair 0.0855%) uniform 0.0241% programmed(fixed) 0.0396% reprogrammed 0.1254% | reprogrammed/retuned 1.47 | reprogrammed/design pattern 3.17
+tuning ad -10 meV: fixed(design) 0.1830% retuned 0.1971% [90.0, -70.0] (best of grid and design pair 0.1971%) uniform 0.0535% programmed(fixed) 0.1631% reprogrammed 0.2530% | reprogrammed/retuned 1.28 | reprogrammed/design pattern 1.55
+tuning ad +0 meV: fixed(design) 0.3601% retuned 0.3601% [70.0, -50.0] (best of grid and design pair 0.3601%) uniform 0.1836% programmed(fixed) 0.4313% reprogrammed 0.4322% | reprogrammed/retuned 1.20 | reprogrammed/design pattern 1.00
+tuning ad +10 meV: fixed(design) 0.0898% retuned 0.1618% [90.0, -90.0] (best of grid and design pair 0.1618%) uniform 0.1123% programmed(fixed) 0.1794% reprogrammed 0.2916% | reprogrammed/retuned 1.80 | reprogrammed/design pattern 1.63
+tuning tw -40 meV: fixed(design) 0.0655% retuned 0.0681% [-70.0, 70.0] (best of grid and design pair 0.0681%) uniform 0.0021% programmed(fixed) 0.0133% reprogrammed 0.0762% | reprogrammed/retuned 1.12 | reprogrammed/design pattern 5.75
+tuning tw -30 meV: fixed(design) 0.1029% retuned 0.1356% [50.0, -50.0] (best of grid and design pair 0.1356%) uniform 0.0077% programmed(fixed) 0.0403% reprogrammed 0.1981% | reprogrammed/retuned 1.46 | reprogrammed/design pattern 4.91
+tuning tw -20 meV: fixed(design) 0.1644% retuned 0.2153% [40.0, -40.0] (best of grid and design pair 0.2153%) uniform 0.0161% programmed(fixed) 0.0732% reprogrammed 0.3231% | reprogrammed/retuned 1.50 | reprogrammed/design pattern 4.41
+tuning tw -10 meV: fixed(design) 0.2207% retuned 0.2253% [60.0, -50.0] (best of grid and design pair 0.2253%) uniform 0.0350% programmed(fixed) 0.1823% reprogrammed 0.3640% | reprogrammed/retuned 1.62 | reprogrammed/design pattern 2.00
+tuning tw +0 meV: fixed(design) 0.1949% retuned 0.1931% [-80.0, 80.0] (best of grid and design pair 0.1949%) uniform 0.0916% programmed(fixed) 0.2796% reprogrammed 0.2808% | reprogrammed/retuned 1.44 | reprogrammed/design pattern 1.00
+tuning tw +10 meV: fixed(design) 0.0697% retuned 0.1003% [90.0, -90.0] (best of grid and design pair 0.1003%) uniform 0.0370% programmed(fixed) 0.0879% reprogrammed 0.1572% | reprogrammed/retuned 1.57 | reprogrammed/design pattern 1.79
+electrodes pitch 2 gap 1 limit True levels all (54): 0.3929% L 42 (benchmark 0.3601%, x1.09)
+electrodes pitch 4 gap 2 limit True levels all (54): 0.4330% L 56 (benchmark 0.3601%, x1.20)
+electrodes pitch 8 gap 2 limit True levels all (54): 0.3906% L 46 (benchmark 0.3601%, x1.08)
+electrodes pitch 16 gap 2 limit True levels all (54): 0.3665% L 55 (benchmark 0.3601%, x1.02)
+electrodes pitch 4 gap 2 limit False levels all (54): 0.4619% L 66 (benchmark 0.3601%, x1.28)
+electrodes pitch 4 gap 2 limit True levels pair (2): 0.3591% L 38 (benchmark 0.3601%, x1.00)
+electrodes pitch 4 gap 2 limit True levels 3 (3): 0.3339% L 75 (benchmark 0.3601%, x0.93)
+electrodes pitch 4 gap 2 limit True levels 5 (5): 0.3707% L 44 (benchmark 0.3601%, x1.03)
+electrodes pitch 4 gap 2 limit True levels 9 (9): 0.4207% L 59 (benchmark 0.3601%, x1.17)
+electrodes pitch 4 gap 1 limit True levels all (54): 0.3936% L 42 (benchmark 0.3601%, x1.09)
+convergence ad programmed: dx0.25 0.4313%, dx0.125 0.4309%, 5heights 0.4307%, grid10 0.4292%, no_index_sat 0.4445%
+convergence ad benchmark: dx0.25 0.3601%, dx0.125 0.3600%, 5heights 0.3597%, grid10 0.3590%, no_index_sat 0.3628%
+convergence tw programmed: dx0.25 0.2796%, dx0.125 0.2779%, 5heights 0.2786%, grid10 0.2752%, no_index_sat 0.2801%
+convergence tw benchmark: dx0.25 0.1949%, dx0.125 0.1945%, 5heights 0.1941%, grid10 0.1955%, no_index_sat 0.1978%

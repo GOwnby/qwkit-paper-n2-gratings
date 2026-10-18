@@ -1,0 +1,4 @@
+ad programmed {'dx0.25': np.float64(0.4313), 'dx0.125': np.float64(0.4309), '5heights': np.float64(0.4307), 'grid10': np.float64(0.4292), 'no_index_sat': np.float64(0.4445)}
+ad benchmark {'dx0.25': np.float64(0.3601), 'dx0.125': np.float64(0.36), '5heights': np.float64(0.3597), 'grid10': np.float64(0.359), 'no_index_sat': np.float64(0.3628)}
+tw programmed {'dx0.25': np.float64(0.2796), 'dx0.125': np.float64(0.2779), '5heights': np.float64(0.2786), 'grid10': np.float64(0.2752), 'no_index_sat': np.float64(0.2801)}
+tw benchmark {'dx0.25': np.float64(0.1949), 'dx0.125': np.float64(0.1945), '5heights': np.float64(0.1941), 'grid10': np.float64(0.1955), 'no_index_sat': np.float64(0.1978)}

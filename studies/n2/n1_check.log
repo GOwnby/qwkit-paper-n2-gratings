@@ -1,0 +1,5 @@
+P 1.26 ad: N1 best at design energy 0.4136% -100,+120 (that pair with realistic fields 0.2959%, ideal fields 0.4146%) | best pair with realistic fields 0.3452% (+80,-40)
+P 1.26 tw: N1 best at design energy 0.1896% +80,-80 (that pair with realistic fields 0.1972%, ideal fields 0.2222%) | best pair with realistic fields 0.1972% (+80,-80)
+P 10.0 ad: N1 best at design energy 2.4888% +120,-120 (that pair with realistic fields 2.1863%, ideal fields 2.4913%) | best pair with realistic fields 2.3084% (+120,-80)
+P 10.0 tw: N1 best at design energy 0.9702% +90,-90 (that pair with realistic fields 1.0124%, ideal fields 1.1287%) | best pair with realistic fields 1.0124% (-90,+90)
+exit 0

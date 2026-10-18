@@ -1,0 +1,7 @@
+I 2 ad P 1.26: uniform 0.0107% | twofield realistic 0.2532% (+80,-70) x[0.9, 1.1] (unscaled best 0.2526%), ideal 0.3280% (-80,+80) | programmed ideal 0.4692% (greedy 0.3926% mu 0.001), realistic 0.3513% from refined (L 298 um) | x1.39 vs twofield, x1.39 vs best unprogrammed | 2850 s
+--- resumed 21:05
+I 2 tw P 1.26: uniform 0.0065% | sign realistic 0.1678% (+35,-35) x[1.0, 1.0] (unscaled best 0.1678%), ideal 0.1897% (+70,-70) | programmed ideal 0.3874% (greedy 0.3763% mu 0.003), realistic 0.2596% from refined (L 312 um) | x1.55 vs sign, x1.55 vs best unprogrammed | 2035 s
+I 2 ad P 10.0: uniform 0.0146% | twofield realistic 1.8345% (+100,-80) x[1.0, 1.0] (unscaled best 1.8345%), ideal 1.9431% (+100,-80) | programmed ideal 2.7193% (greedy 2.6178% mu 0.003), realistic 2.2143% from refined (L 608 um) | x1.21 vs twofield, x1.21 vs best unprogrammed | 5928 s
+--- resumed 23:13
+I 2 tw P 10.0: uniform 0.0076% | sign realistic 0.7396% (-85,+85) x[1.0, 1.0] (unscaled best 0.7396%), ideal 0.8123% (-80,+80) | programmed ideal 1.2552% (greedy 1.2403% mu 0.03), realistic 0.8497% from refined (L 572 um) | x1.15 vs sign, x1.15 vs best unprogrammed | 1286 s
+exit 0

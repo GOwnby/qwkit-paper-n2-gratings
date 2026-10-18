@@ -1,0 +1,5 @@
+I 2 ad P 1.26: ideal benchmark 0.3327% (+80,-80) x[0.9, 1.1] L 418 um (unscaled 0.3280% (-80,+80)) | 758 s
+I 2 ad P 10.0: ideal benchmark 1.9431% (+100,-80) x[1.0, 1.0] L 626 um (unscaled 1.9431% (+100,-80)) | 759 s
+I 2 tw P 1.26: ideal benchmark 0.1897% (+70,-70) x[1.0, 1.0] L 346 um (unscaled 0.1897% (+70,-70)) | 447 s
+I 2 tw P 10.0: ideal benchmark 0.8467% (-85,+85) x[0.9, 1.1] L 621 um (unscaled 0.8123% (-80,+80)) | 449 s
+exit 0

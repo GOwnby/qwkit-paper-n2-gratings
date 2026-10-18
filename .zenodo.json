@@ -1,0 +1,20 @@
+﻿{
+    "description":  "Self-contained repository containing the full reviewed manuscript (N2_paper.pdf), LaTeX source, qwkit v0.7.0 simulation engine, automated mathematical verification test suite (69 tests), and reproduction scripts/JSON datasets for: Electrically programmable intersubband second-harmonic gratings: synthesis under saturation, fringing fields and tuning",
+    "upload_type":  "software",
+    "creators":  [
+                     {
+                         "affiliation":  "University of Oklahoma",
+                         "name":  "Ownby, Gracen"
+                     }
+                 ],
+    "keywords":  [
+                     "quantum wells",
+                     "intersubband optics",
+                     "nonlinear optics",
+                     "Schrodinger-Poisson",
+                     "second-harmonic generation",
+                     "qwkit"
+                 ],
+    "title":  "Electrically programmable intersubband second-harmonic gratings: synthesis under saturation, fringing fields and tuning (Code, Mathematical Proofs, and Manuscript)",
+    "license":  "MIT"
+}

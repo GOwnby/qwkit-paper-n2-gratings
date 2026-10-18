@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "qwkit"
+version = "0.7.0"
+description = "Quantum-well intersubband optics: self-consistent states, depolarisation, LO-phonon rates, resonant chi(2), saturation and waveguide propagation"
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
+authors = [{name = "Gracen Ownby"}]
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.22", "scipy>=1.8"]
+keywords = ["quantum well", "intersubband", "nonlinear optics", "second-harmonic generation",
+            "Schrodinger-Poisson", "quasi-phase matching", "semiconductor heterostructures"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "Operating System :: OS Independent",
+  "Intended Audience :: Science/Research",
+  "Topic :: Scientific/Engineering :: Physics",
+]
+
+[project.optional-dependencies]
+plots = ["matplotlib>=3.5"]
+test = ["pytest>=7"]
+
+[tool.setuptools]
+packages = ["qwkit"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
