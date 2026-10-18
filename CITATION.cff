@@ -1,4 +1,4 @@
-﻿cff-version: 1.2.0
+cff-version: 1.2.0
 message: "If you use this software or manuscript, please cite it as below."
 authors:
   - family-names: "Ownby"
@@ -8,3 +8,5 @@ title: "Electrically programmable intersubband second-harmonic gratings: synthes
 version: "1.0.0"
 date-released: "2026-10-17"
 license: MIT
+doi: 10.5281/zenodo.23444592
+url: https://github.com/GOwnby/qwkit-paper-n2-gratings

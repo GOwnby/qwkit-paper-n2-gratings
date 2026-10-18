@@ -1,4 +1,6 @@
-﻿# Electrically programmable intersubband second-harmonic gratings: synthesis under saturation, fringing fields and tuning
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23444592.svg)](https://doi.org/10.5281/zenodo.23444592)
+
+# Electrically programmable intersubband second-harmonic gratings: synthesis under saturation, fringing fields and tuning
 
 **Author:** Gracen Ownby (University of Oklahoma)  
 **Date:** October 2026  
