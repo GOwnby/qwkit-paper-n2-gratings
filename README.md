@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23444592.svg)](https://doi.org/10.5281/zenodo.23444592)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23444591.svg)](https://doi.org/10.5281/zenodo.23444591)
 
 # Electrically programmable intersubband second-harmonic gratings: synthesis under saturation, fringing fields and tuning
 
@@ -13,6 +13,8 @@ This repository is the permanent, self-contained mathematical and computational 
 1. The complete reviewed paper (`N2_paper.pdf`) and its LaTeX source (`paper_n2/`).
 2. The complete `qwkit` (v0.7.0) Python package (`qwkit/`) and its 69 automated validation tests (`tests/`), which verify analytic limits, BenDaniel-Duke finite-well convergence, exact mirror-symmetry oddness $\chi^{(2)}(-F) = -\chi^{(2)}(F)$ to $10^{-11}$, two-band Kane orthogonality ($10^{-13}$), energy-conserving RK4 coupled-mode propagation, implicit-differentiation tangents, and RPA sum rules.
 3. The study scripts and precomputed JSON datasets (`studies/n2/`) that generate every table, bound, and figure in the manuscript.
+
+4. Inputs taken from companion studies, copied unchanged so that this folder is self-contained: `studies/n1_paper/`, `studies/nl02/` (each with a `README_UPSTREAM.md` naming the source archive and the script that generates them).
 
 ## Quick Verification (Mathematical & Numerical Proof)
 

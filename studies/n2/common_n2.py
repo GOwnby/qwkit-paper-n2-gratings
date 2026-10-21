@@ -40,7 +40,7 @@ _CACHE = {}
 def statesets(design, I=4):
     key = ("st", design, I)
     if key not in _CACHE:
-        S = json.load(open(os.path.join(here, _MAPS[I])))
+        S = json.load(open(os.path.join(here, _MAPS.get(I, f"chimap_I{I}.json"))))
         _CACHE[key] = sorted([s for s in S if s["design"] == design and s["valid"]], key=lambda s: s["F"])
     return _CACHE[key]
 

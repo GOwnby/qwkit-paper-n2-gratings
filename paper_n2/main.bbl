@@ -64,11 +64,12 @@ M.~A. Belkin, M.~Troccoli, L.~Diehl, F.~Capasso, A.~A. Belyanin, D.~L. Sivco,
 \newblock \doi{10.1063/1.2203938}.
 
 \bibitem[Ownby(2026{\natexlab{a}})]{OwnbyN1}
-G.~Ownby.
-\newblock Electrically written quasi-phase matching of intersubband
+Gracen Ownby.
+\newblock {Electrically written quasi-phase matching of intersubband
   second-harmonic generation: bias-reversed asymmetric and mirror-symmetric
-  quantum wells.
-\newblock Manuscript in preparation, 2026{\natexlab{a}}.
+  quantum wells}.
+\newblock Zenodo, October 2026{\natexlab{a}}.
+\newblock URL \url{https://doi.org/10.5281/zenodo.23444557}.
 
 \bibitem[Fejer and Byer(1989)]{Patent4880297}
 M.~M. Fejer and R.~L. Byer.
@@ -126,8 +127,7 @@ K.~L. Vodopyanov, K.~O'Neill, G.~B. Serapiglia, C.~C. Phillips, M.~Hopkinson,
 J.~R. Meyer, C.~A. Hoffman, F.~J. Bartoli, and L.~R. Ram-Mohan.
 \newblock Intersubband second-harmonic generation with voltage-controlled phase
   matching.
-\newblock \emph{Appl. Phys. Lett.}, 67:\penalty0 608, 1995.
-\newblock \doi{10.1063/1.115404}.
+\newblock \emph{Appl. Phys. Lett.}, 67\penalty0 (5):\penalty0 608--610, 1995.
 
 \bibitem[Vurgaftman et~al.(1996)Vurgaftman, Meyer, and
   Ram-Mohan]{Vurgaftman1996SSC}
@@ -152,15 +152,17 @@ M.~A. Arbore, O.~Marco, and M.~M. Fejer.
 \newblock \doi{10.1364/OL.22.000865}.
 
 \bibitem[Ownby(2026{\natexlab{b}})]{OwnbyMETH01}
-G.~Ownby.
-\newblock Dipoles of nonparabolic quantum-well states: why orthonormalizing the
-  bound states is not enough.
-\newblock Manuscript in preparation, 2026{\natexlab{b}}.
+Gracen Ownby.
+\newblock {Dipoles of nonparabolic quantum-well states: why orthonormalizing
+  the bound states is not enough}.
+\newblock Zenodo, October 2026{\natexlab{b}}.
+\newblock URL \url{https://doi.org/10.5281/zenodo.23444554}.
 
 \bibitem[Ownby(2026{\natexlab{c}})]{qwkit}
-G.~Ownby.
-\newblock qwkit: self-consistent intersubband optics of quantum wells,
-  2026{\natexlab{c}}.
-\newblock Version 0.7.0, University of Oklahoma.
+Gracen Ownby.
+\newblock {qwkit: self-consistent intersubband optics of quantum wells
+  (v0.7.0)}.
+\newblock Zenodo, October 2026{\natexlab{c}}.
+\newblock URL \url{https://doi.org/10.5281/zenodo.23444120}.
 
 \end{thebibliography}
